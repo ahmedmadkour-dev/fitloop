@@ -10,6 +10,20 @@ I built the interactive website for a **Generating Genius Entrepreneurship Geniu
 
 > The site is an interactive competition prototype with demonstration data, not a live paid marketplace. The link is the original project domain; current availability can change.
 
+## Screenshots from the interactive demo
+
+These are genuine screenshots of the FitLoop competition prototype (August–September 2026). They show **demonstration accounts, quotes and bookings**, not real customers or completed commercial transactions.
+
+### Website homepage
+
+[![FitLoop website homepage — clothes you love, fitted for you](assets/fitloop-homepage.webp)](https://tryfitloop.co.uk)
+
+### Customer dashboard
+
+![FitLoop customer dashboard — sample requests, quotes, bookings and messages](assets/fitloop-customer-dashboard.webp)
+
+**[Open the FitLoop website →](https://tryfitloop.co.uk)**
+
 ## Problem
 
 A lot of clothes are returned because the fit is slightly wrong rather than because the customer dislikes the item.
