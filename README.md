@@ -6,6 +6,10 @@ The idea is simple: instead of returning clothes that are almost right, customer
 
 I built the interactive website for a **Generating Genius Entrepreneurship Genius** competition and deployed the domain publicly for the presentation.
 
+**🌐 Website/demo:** [tryfitloop.co.uk](https://tryfitloop.co.uk)  ·  **📖 Technical write-up:** [PROJECT_REPORT.md](PROJECT_REPORT.md)
+
+> The site is an interactive competition prototype with demonstration data, not a live paid marketplace. The link is the original project domain; current availability can change.
+
 ## Problem
 
 A lot of clothes are returned because the fit is slightly wrong rather than because the customer dislikes the item.
