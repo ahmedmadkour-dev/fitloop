@@ -1,80 +1,54 @@
-# FitLoop — Local Clothing Alterations Marketplace Prototype
+# FitLoop — Clothing Alterations Marketplace
 
-FitLoop is a marketplace prototype designed to make clothing alterations easier to arrange and to reduce unnecessary clothing returns.
+**Interactive product prototype · Generating Genius Entrepreneurship Genius 2026**
 
-The idea is simple: instead of returning clothes that are almost right, customers can find trusted local tailors, describe what needs changing, compare quotes and follow the alteration through to completion.
+**[View the original demo domain](https://tryfitloop.co.uk)** · **[Competition and award](COMPETITION.md)** · **[Technical report](PROJECT_REPORT.md)** · **[Personal portfolio case study](https://github.com/ahmedmadkour-dev/ahmedmadkour-dev/tree/main/portfolio/fitloop)**
 
-I built the interactive website for a **Generating Genius Entrepreneurship Genius** competition and deployed the domain publicly for the presentation.
+> FitLoop was a live *demonstration* presented during a competition, not a trading marketplace with real transactions. The original domain's availability may change.
 
-**🌐 Website/demo:** [tryfitloop.co.uk](https://tryfitloop.co.uk)  ·  **📖 Technical write-up:** [PROJECT_REPORT.md](PROJECT_REPORT.md)
+[![FitLoop competition homepage](assets/fitloop-homepage.webp)](https://tryfitloop.co.uk)
 
-> The site is an interactive competition prototype with demonstration data, not a live paid marketplace. The link is the original project domain; current availability can change.
+## Why FitLoop?
 
-## Screenshots from the interactive demo
+Sometimes clothing is returned or left unworn because it needs a small alteration. Our team's idea was to make it easier for customers to discover local tailors, describe what they need, compare indicative prices and track the job.
 
-These are genuine screenshots of the FitLoop competition prototype (August–September 2026). They show **demonstration accounts, quotes and bookings**, not real customers or completed commercial transactions.
+## My role
 
-### Website homepage
+As the team's **product designer and website builder**, I created the interactive demonstration, worked through the customer journey and interface, iterated on features and presentation, and bought the domain for a public pitch demo. I designed and contributed to the competition slides and participated in the pitch and Q&A.
 
-[![FitLoop website homepage — clothes you love, fitted for you](assets/fitloop-homepage.webp)](https://tryfitloop.co.uk)
+The competition was a **team project**, and this describes the work I personally contributed.
+
+## What I built into the demonstration
+
+- Responsive marketplace-style landing page and tailor profile discovery
+- Filters by area, alteration type and other demonstration criteria
+- Saved tailor profiles and multi-step request flow
+- Example quote comparison and acceptance
+- Booking progress and customer/tailor dashboards
+- Simulated messaging and a retailer alteration journey
 
 ### Customer dashboard
 
-![FitLoop customer dashboard — sample requests, quotes, bookings and messages](assets/fitloop-customer-dashboard.webp)
+![FitLoop prototype customer dashboard, showing example bookings and messages](assets/fitloop-customer-dashboard.webp)
 
-**[Open the FitLoop website →](https://tryfitloop.co.uk)**
+The records shown were **demonstration data**, not real customers, paid bookings or messages delivered to tailors.
 
-## Problem
+## Competition and recognition
 
-A lot of clothes are returned because the fit is slightly wrong rather than because the customer dislikes the item.
+FitLoop was presented on **5 September 2026** at the **Generating Genius Entrepreneurship Genius** competition. Although our team did not win the overall competition, I received an **Outstanding Individual award** for my contribution.
 
-FitLoop explored whether a local alteration marketplace could make fixing that problem easier by bringing discovery, requests, quotes and booking progress into one experience.
+I learnt how much stronger a pitch becomes when judges can interact with a product. I also learnt to prepare more rigorous evidence for commercial assumptions after being questioned on our investment valuation.
 
-## What I built
+[Read the competition case study](COMPETITION.md)
 
-- responsive marketplace landing experience
-- tailor discovery and profile cards
-- filters for area, service, verification and collection options
-- saved tailors
-- multi-step alteration request flow
-- sample/photo selection
-- simulated quote comparison
-- quote acceptance
-- booking status tracker
-- customer and tailor demo dashboards
-- local messaging simulation
-- retailer-supported alteration demo flow
+## Technical snapshot
 
-## Product / design approach
+**Technologies documented:** TypeScript/React, Vite/vinext conventions, Tailwind CSS and Cloudflare tooling.
 
-I took inspiration from marketplace products such as **Vinted** and **Depop**, particularly their simple discovery patterns and consumer-friendly presentation, while designing FitLoop around the specific problem of local alterations.
+The goal was a usable product demonstration: demo state was local, and the project did not deliver production multi-user authentication, real payments, live quotes or a shared marketplace database. The full application source is not currently published in this repository; it includes project documentation and original screenshots.
 
-The demo used realistic-looking profiles, prices, messages and booking states so that the full customer journey could be presented rather than just showing static slides.
+**Development approach:** I directed the requirements, interface, user journeys, iterations and deployment, using coding tools to help implement and revise substantial parts of the prototype. The [technical report](PROJECT_REPORT.md) describes the scope and limitations.
 
-## Competition context
+## Next iteration
 
-FitLoop was presented at the 2026 Generating Genius Entrepreneurship Genius Business Competition. The website and presentation received positive feedback from judges and programme staff, and I received an Outstanding Individual award at the event.
-
-## Important prototype limitation
-
-FitLoop was built as a **live interactive demo**, not as a production marketplace.
-
-The repository does **not** contain real multi-user authentication, real payments, real quote delivery, production messaging or a live marketplace database. Demo state was stored locally in the browser and profiles/quotes were demonstration data.
-
-That distinction is intentional: the project was built to test and communicate the product idea for an entrepreneurship competition.
-
-## Main technologies
-
-TypeScript · React 19 · Next.js 16-style App Router via vinext · Vite · Tailwind CSS · Cloudflare tooling
-
-## Current portfolio format
-
-This public repository currently documents the project as a portfolio case study. The cleaned source export is being kept separately rather than automatically publishing the entire competition codebase.
-
-See [`PROJECT_REPORT.md`](PROJECT_REPORT.md) for the technical/project report.
-
-## AI-assisted development
-
-I used AI-assisted coding heavily to build and iterate FitLoop quickly. I directed the product, UX, feature decisions and repeated revisions, while AI tools generated and modified substantial parts of the implementation.
-
-The project is therefore best understood as a product/engineering prototype showing how I used AI tools to turn an idea into a working interactive experience — not as a claim that every line was written manually.
+If I take FitLoop further, the priorities are interviews with tailors and customers, a small pilot, pricing and operational validation, and only then production authentication, bookings and transaction handling.
