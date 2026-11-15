@@ -49,6 +49,6 @@ During portfolio cleanup, the vinext production build succeeded. The original co
 
 The project taught me that a polished product demonstration can make an idea much easier to understand, but a convincing interface is not the same thing as a validated business. The competition also exposed gaps in our investor preparation — particularly valuation and the investment ask — which became an important commercial lesson.
 
-## AI-assisted development
+## Implementation approach
 
-I used AI-assisted coding heavily while building and iterating FitLoop. I directed the product, UX, feature decisions and revisions while AI generated and modified substantial parts of the implementation. I present it as an AI-assisted product/engineering prototype rather than claiming every line was written manually.
+I defined the product flow, visual direction, feature requirements and revisions, and deployed the competition website. Coding assistants contributed substantial implementation work during rapid prototyping; my verified contribution centres on product decisions, integration, iteration and demonstration rather than a claim of writing every line from scratch.
